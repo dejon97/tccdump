@@ -7,9 +7,10 @@ TCC Nuxeo File Export
 Getting Started
 ---------------
 
-The installation is as simple as:
-
-.. code:: shell
+Install the Nuxeo Python Client
 
     python -m pip install --upgrade nuxeo
  
+Then run
+
+    python tccdump.py
